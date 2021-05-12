@@ -93,7 +93,7 @@ public class Locators extends BasePage {
 
         WebElement kalkulacja = driver.findElement(By.xpath("//table[@id='table2']//tbody//tr[td[text()='jsmith@gmail.com']]"));
 
-        Assert.assertEquals(kalkulacja, "1");
+        Assert.assertEquals(kalkulacja, "jsmith@gmail.com");
 
         //wewnątrz dowolnego atrybutu np. contains(@class,'cart') - klasa zawiera 'cart'
         // //span[text()='Zaloguj się']
