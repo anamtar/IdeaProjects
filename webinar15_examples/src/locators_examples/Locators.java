@@ -91,9 +91,11 @@ public class Locators extends BasePage {
 
         Assert.assertEquals(sortableDataTablesLink, "http://the-internet.herokuapp.com/tables");
 
-        WebElement kalkulacja = driver.findElement(By.xpath("//table[@id='table2']//tbody//tr[td[text()='jsmith@gmail.com']]"));
+        WebElement kalkulacja = driver.findElement(By.xpath("//table[@id='table2']//tbody//[td[text()='jsmith@gmail.com']]"));
 
-        Assert.assertEquals(kalkulacja, "jsmith@gmail.com");
+        String porownanie = kalkulacja.getText();
+
+        Assert.assertEquals(porownanie, "jsmith@gmail.com");
 
         //wewnątrz dowolnego atrybutu np. contains(@class,'cart') - klasa zawiera 'cart'
         // //span[text()='Zaloguj się']
