@@ -9,7 +9,7 @@ import org.testng.annotations.BeforeMethod;
 import java.util.concurrent.TimeUnit;
 
 public class BasePage {
-    WebDriver driver; // tutaj, żeby każda klasa miała dostęp
+    public WebDriver driver; // tutaj, żeby każda klasa miała dostęp
 
     @BeforeClass
     public void setUp() {

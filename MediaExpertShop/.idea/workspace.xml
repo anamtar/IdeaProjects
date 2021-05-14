@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="71f8a70c-9433-4216-9a40-83e0081292dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../MediaExpert/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MediaExpert/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MediaExpert/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MediaExpert/src/test/java/Testy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MediaExpertShop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Testy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Testy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rezerwowy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-shop-app/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-shop-app/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-shop-app/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-shop-app/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-shop-app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-shop-app/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-shop-app/sample-shop-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-shop-app/src/main/java/sampleshop/ShopApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-shop-app/src/main/java/sampleshop/art/ArtCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-shop-app/src/test/java/ArtCategoryTest/DisplayTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-shop-app/src/test/java/ArtCategoryTest/SearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-shop-app/src/test/java/ArtCategoryTest/SimpleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-shop-app/target/classes/sampleshop/ShopApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-shop-app/target/classes/sampleshop/art/ArtCategory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-shop-app/target/test-classes/ArtCategoryTest/DisplayTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webinar15_examples/src/explicityWait/ExplicityWait_examples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MediaExpert/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MediaExpert/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MediaExpert/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MediaExpert/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MediaExpert/MediaExpert.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MediaExpert/MediaExpert.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MediaExpert/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MediaExpert/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webinar15_examples/out/production/webinar15_examples/locators_examples/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../webinar15_examples/out/production/webinar15_examples/locators_examples/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webinar15_examples/out/production/webinar15_examples/locators_examples/Locators.class" beforeDir="false" afterPath="$PROJECT_DIR$/../webinar15_examples/out/production/webinar15_examples/locators_examples/Locators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webinar15_examples/src/locators_examples/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webinar15_examples/src/locators_examples/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webinar15_examples/src/locators_examples/Locators.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webinar15_examples/src/locators_examples/Locators.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1sTqD910uuAaNQwjUjFhwuprDEA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.Testy.registerAccount">
+    <configuration name="Testy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MediaExpertShop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Testy" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testy.closeCookies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MediaExpertShop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Testy" />
+      <option name="METHOD_NAME" value="closeCookies" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testy.closeCookiesAndNotification" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MediaExpertShop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Testy" />
+      <option name="METHOD_NAME" value="closeCookiesAndNotification" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testy.openPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MediaExpertShop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Testy" />
+      <option name="METHOD_NAME" value="openPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testy.registerAccount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MediaExpertShop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Testy" />
+      <option name="METHOD_NAME" value="registerAccount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Testy.registerAccount" />
+        <item itemvalue="JUnit.Testy.closeCookies" />
+        <item itemvalue="JUnit.Testy" />
+        <item itemvalue="JUnit.Testy.closeCookiesAndNotification" />
+        <item itemvalue="JUnit.Testy.openPage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71f8a70c-9433-4216-9a40-83e0081292dd" name="Default Changelist" comment="" />
+      <created>1620906808647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620906808647</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
