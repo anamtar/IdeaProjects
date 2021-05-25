@@ -30,5 +30,8 @@ public class BasePage {
 
         //driver.quit(); // wyjście i zamknięcie strony
     }
+    //Podobnie jak BeforeClass uruchamianie przy każdej klasie testowej
+    //W tym wypadku na jej końcu. Zapewnia zamknięcie okna przeglądarki
+    //po testach
 }
 
